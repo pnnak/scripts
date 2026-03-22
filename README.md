@@ -2,7 +2,7 @@
 
 
 
-## 🔓 LeiaPR Bypass
+##  LeiaPR Bypass
 
 
 ```javascript
@@ -15,7 +15,7 @@ fetch('https://cdn.jsdelivr.net/gh/mzzvxm/LeiaPRBypass@latest/script.js')
 
 ---
 
-## 📝 Redação Bypass
+##  Redação Bypass
 
 
 ```javascript
@@ -32,7 +32,7 @@ document.head.appendChild(s)
 
 ---
 
-## 🌐 Links Khan e Quizziz
+##  Links Khan e Quizziz
 
 * https://waygroundx.vercel.app/
 * https://khan.cupiditys.lol/pt-br/

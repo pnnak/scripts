@@ -1,14 +1,9 @@
 # SCRIPT
 
-# 📜 Meus Scripts
 
-Coleção de scripts para uso rápido via bookmarklet ou injeção no navegador.
-
----
 
 ## 🔓 LeiaPR Bypass
 
-Execute o script abaixo no navegador:
 
 ```javascript
 javascript:(function(){
@@ -22,7 +17,6 @@ fetch('https://cdn.jsdelivr.net/gh/mzzvxm/LeiaPRBypass@latest/script.js')
 
 ## 📝 Redação Bypass
 
-Execute o script abaixo:
 
 ```javascript
 javascript:(function(){

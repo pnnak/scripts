@@ -37,3 +37,4 @@ document.head.appendChild(s)
 * https://waygroundx.vercel.app/
 * https://khan.cupiditys.lol/pt-br/
 
+## JFK+BQT= ❤️❤️❤️❤️❤️
